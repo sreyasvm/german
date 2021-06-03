@@ -10,3 +10,7 @@ Wollte - want
 
 beschäftigt - busy
 
+prozent - percentage (%)
+
+
+
