@@ -8,3 +8,5 @@ Ich weiß es nicht - I donot know
 
 Wollte - want
 
+beschäftigt - busy
+
