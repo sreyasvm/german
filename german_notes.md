@@ -12,5 +12,16 @@ beschäftigt - busy
 
 prozent - percentage (%)
 
+Ich weiß nicht, ob es mir gut geht - I do not know, if I am good
+
+erste - first
+
+zweite - second
+
+das erste mal - the first time
+
+
+
+
 
 
