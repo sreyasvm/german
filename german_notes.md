@@ -20,6 +20,10 @@ zweite - second
 
 das erste mal - the first time
 
+made in - 
+
+vielleicht wirst du ihn besuchen - perhaps I will visit him
+
 
 
 
