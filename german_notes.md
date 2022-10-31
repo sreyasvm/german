@@ -4,6 +4,7 @@
 
 * [Words](#Words)
 * [Introduction](#Introduction)
+* [Posessive Pronouns](#Psessive Pronoun)
 
 
 ### Words
@@ -88,6 +89,58 @@ Guten Morgen. Ich heiße Sreyas. Ich bin 29 jahre alt. Ich komme aus Indien. Ich
 - Juristin (Lawyer)
 - Marie studiert Jura - später ist sie Juristin
 - Malerin (Painter)
+
+
+### Posessive Pronoun
+
+#### First Person Singular
+
+ich  - mein / meine / mein - my
+
+#### 2nd Person  Singular
+
+informal : 
+du - dein / deine/ dein - your
+
+formal: 
+
+Sie - Ihr / Ihre / Ihre - Ihr
+
+#### 3rd Person Singular
+
+er -  sein/ seine / sein -his
+sie - ihr / ihre / ihr - her
+es - sein / seine / sein - its
+
+
+#### Plural 
+
+####  First Person Plural 
+
+wir - unser / unsere / unser - our
+
+#### 2nd Person Plural
+
+informal : 
+
+ihr (You all) - euer / eure / euer  - your
+
+formal 
+
+Sie (You all) - Ihr / Ihre / Ihr - your
+
+
+#### 3rd person Plural
+
+sie - ihr / ihre / ihre - their
+
+
+
+### Examples
+
+Was ist Ihre Heimatstadt : What is your hometown 
+
+Heimatstadt is plural , therefore Ihre
 
 
 
