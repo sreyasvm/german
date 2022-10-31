@@ -109,7 +109,9 @@ Sie - Ihr / Ihre / Ihre - Ihr
 #### 3rd Person Singular
 
 er -  sein/ seine / sein -his
+
 sie - ihr / ihre / ihr - her
+
 es - sein / seine / sein - its
 
 
